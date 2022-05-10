@@ -3,27 +3,21 @@ package Branch;
 public class branchadd {
     String name;
     float cgpa;
+    int count;
 
-    public branchadd(String name, float cgpa, double salary) {
+
+ master
         this.name = name;
         this.cgpa = cgpa;
-        this.salary = salary;
+        this.count = count;
     }
 
-    public double getSalary() {
-        return salary;
+    public int getCount() {
+        return count;
     }
 
-    public void setSalary(double salary) {
-        this.salary = salary;
-    }
-
-    double salary;
-
-
-    public branchadd(String name, float cgpa) {
-        this.name = name;
-        this.cgpa = cgpa;
+    public void setCount(int count) {
+        this.count = count;
     }
 
     public String getName() {
