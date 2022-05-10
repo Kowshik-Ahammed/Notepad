@@ -5,7 +5,8 @@ public class branchadd {
     float cgpa;
     int count;
 
-    public branchadd(String name, float cgpa, int count) {
+
+ master
         this.name = name;
         this.cgpa = cgpa;
         this.count = count;
