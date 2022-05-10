@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Sh4dowSoul.ComposePreferences:datastore-manager:0.1.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/01c9aecec4e631a0a0dae53e84420bab/transformed/jetified-datastore-manager-0.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/01c9aecec4e631a0a0dae53e84420bab/transformed/jetified-datastore-manager-0.1.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/01c9aecec4e631a0a0dae53e84420bab/transformed/jetified-datastore-manager-0.1.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Sh4dowSoul.ComposePreferences/datastore-manager/0.1.4/fe433c5ae90e1790df749a8dd4e4b65533064501/datastore-manager-0.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

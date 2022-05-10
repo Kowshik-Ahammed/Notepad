@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.halilibo.compose-richtext:richtext-ui-android-debug:0.11.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/535c59437156b614d8157145d0073ad5/transformed/jetified-richtext-ui-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/535c59437156b614d8157145d0073ad5/transformed/jetified-richtext-ui-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/535c59437156b614d8157145d0073ad5/transformed/jetified-richtext-ui-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.halilibo.compose-richtext/richtext-ui-android-debug/0.11.0/754d0a39c079c39a761e386f483322da70fc2dcf/richtext-ui-android-debug-0.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.halilibo.compose-richtext/richtext-ui-android-debug/0.11.0/863002048c0d16cbc58b357d478c3ca135ff8da6/richtext-ui-android-debug-0.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.firefinchdev:linkify-text:0a45dbcf9b@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7da6c4579f8f8271b4085c510461e058/transformed/jetified-linkify-text-0a45dbcf9b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7da6c4579f8f8271b4085c510461e058/transformed/jetified-linkify-text-0a45dbcf9b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7da6c4579f8f8271b4085c510461e058/transformed/jetified-linkify-text-0a45dbcf9b/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.firefinchdev/linkify-text/0a45dbcf9b/c596d714a34d0b842c2d13ea452e2ec58d5b68f9/linkify-text-0a45dbcf9b-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

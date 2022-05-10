@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.halilibo.compose-richtext:richtext-commonmark-android-debug:0.11.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/048683906e100b6431b34893d50087ce/transformed/jetified-richtext-commonmark-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/048683906e100b6431b34893d50087ce/transformed/jetified-richtext-commonmark-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/048683906e100b6431b34893d50087ce/transformed/jetified-richtext-commonmark-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.halilibo.compose-richtext/richtext-commonmark-android-debug/0.11.0/48a4d099bf69cf3c3d07b77fb826193249c71dcf/richtext-commonmark-android-debug-0.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.halilibo.compose-richtext/richtext-commonmark-android-debug/0.11.0/85217fd5d759d3a76282b9b8cd76eada64a6405f/richtext-commonmark-android-debug-0.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
