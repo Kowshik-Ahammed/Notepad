@@ -4,6 +4,23 @@ public class branchadd {
     String name;
     float cgpa;
 
+    public branchadd(String name, float cgpa, double salary) {
+        this.name = name;
+        this.cgpa = cgpa;
+        this.salary = salary;
+    }
+
+    public double getSalary() {
+        return salary;
+    }
+
+    public void setSalary(double salary) {
+        this.salary = salary;
+    }
+
+    double salary;
+
+
     public branchadd(String name, float cgpa) {
         this.name = name;
         this.cgpa = cgpa;
